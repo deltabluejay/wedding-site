@@ -1,7 +1,6 @@
 site_name: Ava & Cody
 site_url: https://deltabluejay.github.io/wedding-site
 site_description: Announcing the marriage of Ava & Cody
-site_dir: docs
 
 theme:
   name: landing
