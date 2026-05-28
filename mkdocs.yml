@@ -1,0 +1,68 @@
+site_name: Ava & Cody
+site_url: https://deltabluejay.github.io/wedding-site
+site_description: Announcing the marriage of Ava & Cody
+site_dir: docs
+
+theme:
+  name: landing
+  heading_font: Hurricane
+  body_font: Trocchi
+
+  avatar: assets/pictures/avatar.jpg
+  round_avatar: true
+  share_btn: false
+  footer: ""
+
+  # Scheme colors
+  primary_color: "#375340"
+  secondary_color: "#8691c7"
+  tertiary_color: "#a0937b"
+
+  # Shades
+  base_color: "#F8FAFF"
+  mantle_color: "#EEF2FF"
+  crust_color: "#DDE5FF"
+  overlay_color: "#B8C5F5"
+
+  # Main text
+  text_color: "#2E3550"
+  hltext_color: "#FFFFFF"
+
+  # Background-specific text
+  primary_text_color: "#FFFFFF"
+  secondary_text_color: "#2E3550"
+  tertiary_text_color: "#2E3550"
+
+  base_text_color: "#2E3550"
+  mantle_text_color: "#2E3550"
+  crust_text_color: "#2E3550"
+  overlay_text_color: "#FFFFFF"
+
+  # Background
+  background_gradient_angle: 340
+  background_gradient_colors: ["#a3b6d9", "#ffffff", "#ffffff"]
+
+  # Dark mode (same as light mode)
+  primary_color_dark: "#375340"
+  secondary_color_dark: "#8691c7"
+  tertiary_color_dark: "#a0937b"
+
+  base_color_dark: "#F8FAFF"
+  mantle_color_dark: "#EEF2FF"
+  crust_color_dark: "#DDE5FF"
+  overlay_color_dark: "#B8C5F5"
+
+  text_color_dark: "#2E3550"
+  hltext_color_dark: "#FFFFFF"
+
+  primary_text_color_dark: "#FFFFFF"
+  secondary_text_color_dark: "#2E3550"
+  tertiary_text_color_dark: "#2E3550"
+
+  base_text_color_dark: "#2E3550"
+  mantle_text_color_dark: "#2E3550"
+  crust_text_color_dark: "#2E3550"
+  overlay_text_color_dark: "#FFFFFF"
+
+markdown_extensions:
+  - attr_list
